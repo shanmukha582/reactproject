@@ -15,14 +15,13 @@
 	padding: 1%;
 	margin: 1%;
 	font-size: 28px;
-	width: 25%;
-	text-align: center;
+	width: 25%
 	border-radius: 10%;
 	background-color: #DBE9E9;
 }
 
 img{
-	width:70%;
+	width:50%;
 	border:2px solid black;
 	border-radius: 50%;
 	display: block;
@@ -38,7 +37,6 @@ img{
 	margin: 1%;
 	width: 50%;
 	font-size: 25px;
-	text-align: center;
 	border-radius: 10%;
 	background-color: #DBE9E9;
 
